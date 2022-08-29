@@ -1,0 +1,7 @@
+.con {
+  width: 1200px;
+}
+
+.con-min-width {
+  min-width: 1200px;
+}
